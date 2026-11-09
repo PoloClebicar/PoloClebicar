@@ -4,9 +4,9 @@ Hi, I am Polo
 Automation Analyst looking for a career change
 ----------------------------------------------
 
-My name is Paulo Clebicar, but you can call me **Polo**. I learned the very basics back in high school, but I never picked up the practice until now. Going back to the basics.
+My name is Paulo Clebicar, but you can call me **Polo**.
 
-My dream is to become a Game Dev.
+Maybe a Game Dev one day.
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [clebicarpaulo@gmail.com](mailto:clebicarpaulo@gmail.com)
@@ -18,9 +18,3 @@ src="https://img.shields.io/github/followers/PoloClebicar?logo=github&style=for-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/PoloClebicar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/PoloClebicar"><img src="https://github-readme-stats.vercel.app/api?username=PoloClebicar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PoloClebicar's GitHub stats" /></a>
