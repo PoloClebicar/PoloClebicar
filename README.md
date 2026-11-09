@@ -10,7 +10,6 @@ My dream is to become a Game Dev.
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [clebicarpaulo@gmail.com](mailto:clebicarpaulo@gmail.com)
-* 🧠  I'm learning Python 🐍 and JavaScript
 * ⚡  I also like classical art and classical portraits. I can draw somewhat okay.
 
 <a href="https://www.github.com/PoloClebicar" target="_blank" rel="noreferrer"><img
